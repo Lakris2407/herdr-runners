@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This mod moved to [Lakris2407/herdr-mods](https://github.com/Lakris2407/herdr-mods/tree/main/runners).** This repo is archived; new versions only ship there.
+
 # Runners for Herdr
 
 See what waits for your self-hosted runners and build machines, what runs on them now, and how hard
